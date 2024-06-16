@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tamal.dev	TRUE	/	FALSE	1999999999	__cf_bm	.zXvMBw8QNBoBAXl2DKdeaI2ZpoZoLpbanVwiYk7tnI-1717609567-1.0.1.1-Jfm8kDJdfNiszVhDjuModnRBF.6CaUHvXdW1IsEC0iTB0rU37drBnoYNPw8j.fvW9kA6Her.foGqfgePwzCKsg
+tamal.dev	TRUE	/	FALSE	1999999999	SameSite	None
+tamalsen.dev	TRUE	/	FALSE	1999999999	SameSite	None
+.tamalsen.dev	TRUE	/	FALSE	1999999999	__cf_bm	SqwoFue5brPcr9A5lUE.lqfJ9Il5wLhpFhSRWhtX9r0-1717609632-1.0.1.1-T_JRqBipzzWvpkifQhSWNqu5Rno.OavN.WdRSrnIo2vHJgt8oQOlS90M03ihGb6.bHnsltaCSh2N7Vk5bA_SOg
+
